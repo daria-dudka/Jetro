@@ -332,6 +332,10 @@ a:hover {
   margin-left: 30px;
 }
 
+.footer__item--address {
+  font-style: normal;
+}
+
 .twitter {
   max-width: 220px;
 }
